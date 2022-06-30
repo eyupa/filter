@@ -1,2 +1,2 @@
-twitter.com##div[data-testid="placementTracking"]:has(svg + div[dir="auto"] > span:has-text(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|推薦|推荐/))
-
+yetkinreport.com##.active.mailpoet_form_tight_container.mailpoet_form_animation_slideup.mailpoet_form_position_.mailpoet_form_popup.mailpoet_form
+yetkinreport.com##.active.mailpoet_form_overlay_animation.mailpoet_form_overlay_animation_slideup.mailpoet_form_popup_overlay
